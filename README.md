@@ -11,7 +11,7 @@ Clone the repository
 ```
 Change the directory
 ```
-  cd cd ppl-assignment-gadabout-geek/
+  cd ppl-assignment-gadabout-geek/
 ```
 Compile the files
 ```
