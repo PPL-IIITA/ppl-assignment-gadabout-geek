@@ -6,23 +6,24 @@
 To run and test the assignment (Commandline)
 Clone the repository
 ```
-$git clone https://github.com/PPL-IIITA/ppl-assignment-gadabout-geek.git
+  git clone https://github.com/PPL-IIITA/ppl-assignment-gadabout-geek.git
 ```
 Change the directory
 ```
-$cd cd ppl-assignment-gadabout-geek/
+  cd cd ppl-assignment-gadabout-geek/
 ```
 Compile the files
 ```
-$javac -d . *.java
+  javac -d . *.java
 ```
 To run
 ```
-$java Main/Main
+  java Main/Main
 ```
 The Log/log.txt is the log file created and the output will be generated on the command line
 ##Tested on 
 Operating System: mac-OS-Sierra
+
 Java version "1.8.0_111"
 
 ##Documentation
