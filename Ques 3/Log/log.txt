@@ -1,0 +1,7182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816115</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816142</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816143</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl72 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816144</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816146</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl106 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816147</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 Boy = boy16</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816149</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 Boy = boy6</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816154</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 Boy = boy34</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816157</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Relationship</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 Boy = boy45</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816167</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy42 to Girl = girl1 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816169</millis>
+  <sequence>10</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy42 to Girl = girl1 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816170</millis>
+  <sequence>11</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy63 to Girl = girl6 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816171</millis>
+  <sequence>12</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy63 to Girl = girl6 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816173</millis>
+  <sequence>13</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy63 to Girl = girl6 
+of price = 4 
+and of value = 2000
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816175</millis>
+  <sequence>14</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy453 to Girl = girl72 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816177</millis>
+  <sequence>15</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy453 to Girl = girl72 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816179</millis>
+  <sequence>16</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy79 to Girl = girl342 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816181</millis>
+  <sequence>17</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy79 to Girl = girl342 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816183</millis>
+  <sequence>18</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy1 to Girl = girl106 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816184</millis>
+  <sequence>19</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy1 to Girl = girl106 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816186</millis>
+  <sequence>20</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy1 to Girl = girl106 
+of price = 4 
+and of value = 2000
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816187</millis>
+  <sequence>21</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy16 to Girl = girl16 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816188</millis>
+  <sequence>22</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy16 to Girl = girl16 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816190</millis>
+  <sequence>23</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy6 to Girl = girl9 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816192</millis>
+  <sequence>24</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy6 to Girl = girl9 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816194</millis>
+  <sequence>25</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy34 to Girl = girl76 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816196</millis>
+  <sequence>26</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy34 to Girl = girl76 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816197</millis>
+  <sequence>27</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy45 to Girl = girl43 
+of price = 1 
+and of value = 13
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816198</millis>
+  <sequence>28</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy45 to Girl = girl43 
+of price = 4 
+and of value = 2231
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T03:10:16</date>
+  <millis>1490650816199</millis>
+  <sequence>29</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Gifter</class>
+  <method>fill</method>
+  <thread>1</thread>
+  <message>Gifts: Boy = boy45 to Girl = girl43 
+of price = 4 
+and of value = 2000
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314211</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314238</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314238</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314239</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314240</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314240</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314241</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314242</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314243</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T04:08:34</date>
+  <millis>1490654314243</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282121</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282147</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282148</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282148</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282149</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282150</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282151</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282151</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282152</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:02</date>
+  <millis>1490711282153</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308446</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308467</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308468</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308469</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308469</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308470</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308471</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308471</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308472</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T19:58:28</date>
+  <millis>1490711308473</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411542</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411563</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411563</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411564</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411565</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411566</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411567</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411567</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411568</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:00:11</date>
+  <millis>1490711411569</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639228</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639250</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639251</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639251</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639252</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639253</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639254</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639255</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639255</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:03:59</date>
+  <millis>1490711639256</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664593</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664614</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664614</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664615</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664616</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664617</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664617</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664618</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664619</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:04:24</date>
+  <millis>1490711664620</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229731</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229780</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229782</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229783</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229785</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229787</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229788</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229789</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229791</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229793</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229797</millis>
+  <sequence>10</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 1
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229799</millis>
+  <sequence>11</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229800</millis>
+  <sequence>12</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229801</millis>
+  <sequence>13</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 9
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229802</millis>
+  <sequence>14</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 13
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229804</millis>
+  <sequence>15</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 34
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229805</millis>
+  <sequence>16</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 41
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229806</millis>
+  <sequence>17</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 42
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229808</millis>
+  <sequence>18</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 70
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229809</millis>
+  <sequence>19</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229810</millis>
+  <sequence>20</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229811</millis>
+  <sequence>21</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229813</millis>
+  <sequence>22</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229814</millis>
+  <sequence>23</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229816</millis>
+  <sequence>24</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229818</millis>
+  <sequence>25</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229820</millis>
+  <sequence>26</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229827</millis>
+  <sequence>27</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229828</millis>
+  <sequence>28</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 9
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229829</millis>
+  <sequence>29</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 13
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229831</millis>
+  <sequence>30</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229833</millis>
+  <sequence>31</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229834</millis>
+  <sequence>32</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229835</millis>
+  <sequence>33</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229836</millis>
+  <sequence>34</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229837</millis>
+  <sequence>35</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229838</millis>
+  <sequence>36</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1034
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229839</millis>
+  <sequence>37</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 1
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229840</millis>
+  <sequence>38</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229841</millis>
+  <sequence>39</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229843</millis>
+  <sequence>40</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 9
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229844</millis>
+  <sequence>41</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 13
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229845</millis>
+  <sequence>42</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229846</millis>
+  <sequence>43</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229847</millis>
+  <sequence>44</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229849</millis>
+  <sequence>45</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229850</millis>
+  <sequence>46</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229852</millis>
+  <sequence>47</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229853</millis>
+  <sequence>48</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 1
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229855</millis>
+  <sequence>49</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229857</millis>
+  <sequence>50</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229858</millis>
+  <sequence>51</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 9
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229859</millis>
+  <sequence>52</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 13
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229861</millis>
+  <sequence>53</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 34
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229862</millis>
+  <sequence>54</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 41
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229863</millis>
+  <sequence>55</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 42
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229864</millis>
+  <sequence>56</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 70
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229866</millis>
+  <sequence>57</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229867</millis>
+  <sequence>58</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229868</millis>
+  <sequence>59</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229870</millis>
+  <sequence>60</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229871</millis>
+  <sequence>61</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229871</millis>
+  <sequence>62</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229873</millis>
+  <sequence>63</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 1
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229874</millis>
+  <sequence>64</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229875</millis>
+  <sequence>65</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229876</millis>
+  <sequence>66</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 9
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229877</millis>
+  <sequence>67</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 13
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229878</millis>
+  <sequence>68</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 34
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229879</millis>
+  <sequence>69</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 41
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229879</millis>
+  <sequence>70</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 42
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229880</millis>
+  <sequence>71</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 70
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229881</millis>
+  <sequence>72</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229882</millis>
+  <sequence>73</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229890</millis>
+  <sequence>74</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229892</millis>
+  <sequence>75</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229893</millis>
+  <sequence>76</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229894</millis>
+  <sequence>77</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229895</millis>
+  <sequence>78</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 1
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229903</millis>
+  <sequence>79</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229904</millis>
+  <sequence>80</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229906</millis>
+  <sequence>81</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 9
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229907</millis>
+  <sequence>82</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 13
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229908</millis>
+  <sequence>83</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 34
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229909</millis>
+  <sequence>84</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 1
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229910</millis>
+  <sequence>85</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229911</millis>
+  <sequence>86</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229912</millis>
+  <sequence>87</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 9
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229913</millis>
+  <sequence>88</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 13
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229915</millis>
+  <sequence>89</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 34
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229916</millis>
+  <sequence>90</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 41
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229917</millis>
+  <sequence>91</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 42
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229918</millis>
+  <sequence>92</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 70
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229918</millis>
+  <sequence>93</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229920</millis>
+  <sequence>94</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229920</millis>
+  <sequence>95</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:47:09</date>
+  <millis>1490714229921</millis>
+  <sequence>96</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 25 to Girl girl34</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286005</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286053</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286054</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286056</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286058</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286060</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286061</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286063</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286065</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286067</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286071</millis>
+  <sequence>10</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 1
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286073</millis>
+  <sequence>11</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2231 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286075</millis>
+  <sequence>12</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2000 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286076</millis>
+  <sequence>13</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 9
+ and value 12 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286077</millis>
+  <sequence>14</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 13
+ and value 9543 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286079</millis>
+  <sequence>15</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 34
+ and value 2000 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286080</millis>
+  <sequence>16</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 41
+ and value 25 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286081</millis>
+  <sequence>17</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 42
+ and value 6 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286082</millis>
+  <sequence>18</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 70
+ and value 10 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286084</millis>
+  <sequence>19</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286085</millis>
+  <sequence>20</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286087</millis>
+  <sequence>21</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286094</millis>
+  <sequence>22</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286097</millis>
+  <sequence>23</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 91 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286098</millis>
+  <sequence>24</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286099</millis>
+  <sequence>25</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1
+ and value 13 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286101</millis>
+  <sequence>26</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286102</millis>
+  <sequence>27</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2000 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286103</millis>
+  <sequence>28</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 9
+ and value 12 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286104</millis>
+  <sequence>29</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 13
+ and value 9543 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286105</millis>
+  <sequence>30</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286107</millis>
+  <sequence>31</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286110</millis>
+  <sequence>32</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286111</millis>
+  <sequence>33</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286112</millis>
+  <sequence>34</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 91 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286113</millis>
+  <sequence>35</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286114</millis>
+  <sequence>36</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1034
+ and value 93 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286116</millis>
+  <sequence>37</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 1
+ and value 13 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286117</millis>
+  <sequence>38</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2231 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286118</millis>
+  <sequence>39</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286120</millis>
+  <sequence>40</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 9
+ and value 12 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286121</millis>
+  <sequence>41</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 13
+ and value 9543 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286122</millis>
+  <sequence>42</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286123</millis>
+  <sequence>43</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286123</millis>
+  <sequence>44</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286124</millis>
+  <sequence>45</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286126</millis>
+  <sequence>46</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 91 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286127</millis>
+  <sequence>47</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286128</millis>
+  <sequence>48</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 1
+ and value 13 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286129</millis>
+  <sequence>49</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2231 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286130</millis>
+  <sequence>50</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2000 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286132</millis>
+  <sequence>51</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 9
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286134</millis>
+  <sequence>52</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 13
+ and value 9543 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286135</millis>
+  <sequence>53</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 34
+ and value 2000 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286136</millis>
+  <sequence>54</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 41
+ and value 25 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286138</millis>
+  <sequence>55</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 42
+ and value 6 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286139</millis>
+  <sequence>56</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 70
+ and value 10 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286141</millis>
+  <sequence>57</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286143</millis>
+  <sequence>58</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286144</millis>
+  <sequence>59</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286146</millis>
+  <sequence>60</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286147</millis>
+  <sequence>61</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 91 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286148</millis>
+  <sequence>62</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286149</millis>
+  <sequence>63</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 1
+ and value 13 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286150</millis>
+  <sequence>64</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2231 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286151</millis>
+  <sequence>65</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2000 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286152</millis>
+  <sequence>66</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 9
+ and value 12 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286153</millis>
+  <sequence>67</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 13
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286154</millis>
+  <sequence>68</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 34
+ and value 2000 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286154</millis>
+  <sequence>69</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 41
+ and value 25 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286158</millis>
+  <sequence>70</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 42
+ and value 6 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286159</millis>
+  <sequence>71</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 70
+ and value 10 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286160</millis>
+  <sequence>72</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286162</millis>
+  <sequence>73</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286164</millis>
+  <sequence>74</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286165</millis>
+  <sequence>75</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286166</millis>
+  <sequence>76</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 91 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286167</millis>
+  <sequence>77</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286169</millis>
+  <sequence>78</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 1
+ and value 13 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286170</millis>
+  <sequence>79</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2231 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286171</millis>
+  <sequence>80</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286172</millis>
+  <sequence>81</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 9
+ and value 12 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286173</millis>
+  <sequence>82</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 13
+ and value 9543 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286174</millis>
+  <sequence>83</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 34
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286175</millis>
+  <sequence>84</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 1
+ and value 13 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286177</millis>
+  <sequence>85</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2231 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286178</millis>
+  <sequence>86</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2000 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286182</millis>
+  <sequence>87</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 9
+ and value 12 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286183</millis>
+  <sequence>88</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 13
+ and value 9543 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286186</millis>
+  <sequence>89</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 34
+ and value 2000 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286187</millis>
+  <sequence>90</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 41
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286188</millis>
+  <sequence>91</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 42
+ and value 6 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286189</millis>
+  <sequence>92</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 70
+ and value 10 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286190</millis>
+  <sequence>93</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286192</millis>
+  <sequence>94</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286193</millis>
+  <sequence>95</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286194</millis>
+  <sequence>96</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286195</millis>
+  <sequence>97</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 1
+ and value 13 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286195</millis>
+  <sequence>98</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2231 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286197</millis>
+  <sequence>99</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2000 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286198</millis>
+  <sequence>100</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 9
+ and value 12 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286198</millis>
+  <sequence>101</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 13
+ and value 9543 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286201</millis>
+  <sequence>102</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 34
+ and value 2000 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286202</millis>
+  <sequence>103</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 41
+ and value 25 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286203</millis>
+  <sequence>104</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 1
+ and value 13 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286204</millis>
+  <sequence>105</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2231 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286205</millis>
+  <sequence>106</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2000 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286206</millis>
+  <sequence>107</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 9
+ and value 12 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286207</millis>
+  <sequence>108</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1
+ and value 13 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286208</millis>
+  <sequence>109</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2231 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286209</millis>
+  <sequence>110</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2000 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286209</millis>
+  <sequence>111</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 9
+ and value 12 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286210</millis>
+  <sequence>112</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 13
+ and value 9543 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286215</millis>
+  <sequence>113</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 34
+ and value 2000 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286216</millis>
+  <sequence>114</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 41
+ and value 25 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286217</millis>
+  <sequence>115</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 42
+ and value 6 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286218</millis>
+  <sequence>116</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 70
+ and value 10 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286219</millis>
+  <sequence>117</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286219</millis>
+  <sequence>118</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286220</millis>
+  <sequence>119</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286221</millis>
+  <sequence>120</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286222</millis>
+  <sequence>121</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 91 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286223</millis>
+  <sequence>122</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286224</millis>
+  <sequence>123</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1034
+ and value 93 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:06</date>
+  <millis>1490714286224</millis>
+  <sequence>124</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1243
+ and value 2000 to Girl girl43</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303854</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303903</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303905</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303906</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303908</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303910</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303912</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303913</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303915</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303916</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303921</millis>
+  <sequence>10</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 1
+ and value 13 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303922</millis>
+  <sequence>11</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2231 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303924</millis>
+  <sequence>12</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2000 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303925</millis>
+  <sequence>13</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 9
+ and value 12 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303926</millis>
+  <sequence>14</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 13
+ and value 9543 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303927</millis>
+  <sequence>15</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 34
+ and value 2000 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303929</millis>
+  <sequence>16</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 41
+ and value 25 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303930</millis>
+  <sequence>17</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 42
+ and value 6 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303931</millis>
+  <sequence>18</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 70
+ and value 10 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303933</millis>
+  <sequence>19</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303934</millis>
+  <sequence>20</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303935</millis>
+  <sequence>21</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303942</millis>
+  <sequence>22</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303944</millis>
+  <sequence>23</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 91 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303946</millis>
+  <sequence>24</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303949</millis>
+  <sequence>25</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1
+ and value 13 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303950</millis>
+  <sequence>26</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2231 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303951</millis>
+  <sequence>27</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2000 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303952</millis>
+  <sequence>28</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 9
+ and value 12 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303953</millis>
+  <sequence>29</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 13
+ and value 9543 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303954</millis>
+  <sequence>30</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303955</millis>
+  <sequence>31</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303957</millis>
+  <sequence>32</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303958</millis>
+  <sequence>33</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303958</millis>
+  <sequence>34</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 91 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303959</millis>
+  <sequence>35</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303960</millis>
+  <sequence>36</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1034
+ and value 93 to Girl girl62</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303963</millis>
+  <sequence>37</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 1
+ and value 13 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303964</millis>
+  <sequence>38</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2231 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303965</millis>
+  <sequence>39</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2000 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303967</millis>
+  <sequence>40</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 9
+ and value 12 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303968</millis>
+  <sequence>41</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 13
+ and value 9543 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303968</millis>
+  <sequence>42</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303969</millis>
+  <sequence>43</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303970</millis>
+  <sequence>44</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303971</millis>
+  <sequence>45</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303972</millis>
+  <sequence>46</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 91 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303973</millis>
+  <sequence>47</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303974</millis>
+  <sequence>48</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 1
+ and value 13 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303975</millis>
+  <sequence>49</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2231 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303977</millis>
+  <sequence>50</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2000 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303978</millis>
+  <sequence>51</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 9
+ and value 12 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303980</millis>
+  <sequence>52</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 13
+ and value 9543 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303981</millis>
+  <sequence>53</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 34
+ and value 2000 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303982</millis>
+  <sequence>54</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 41
+ and value 25 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303984</millis>
+  <sequence>55</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 42
+ and value 6 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303985</millis>
+  <sequence>56</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 70
+ and value 10 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303989</millis>
+  <sequence>57</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303990</millis>
+  <sequence>58</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303991</millis>
+  <sequence>59</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303993</millis>
+  <sequence>60</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303994</millis>
+  <sequence>61</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 91 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303995</millis>
+  <sequence>62</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303996</millis>
+  <sequence>63</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 1
+ and value 13 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303997</millis>
+  <sequence>64</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2231 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303998</millis>
+  <sequence>65</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2000 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:23</date>
+  <millis>1490714303999</millis>
+  <sequence>66</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 9
+ and value 12 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304000</millis>
+  <sequence>67</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 13
+ and value 9543 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304002</millis>
+  <sequence>68</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 34
+ and value 2000 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304003</millis>
+  <sequence>69</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 41
+ and value 25 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304004</millis>
+  <sequence>70</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 42
+ and value 6 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304005</millis>
+  <sequence>71</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 70
+ and value 10 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304007</millis>
+  <sequence>72</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304008</millis>
+  <sequence>73</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304010</millis>
+  <sequence>74</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304013</millis>
+  <sequence>75</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304014</millis>
+  <sequence>76</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 91 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304015</millis>
+  <sequence>77</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304017</millis>
+  <sequence>78</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 1
+ and value 13 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304018</millis>
+  <sequence>79</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2231 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304019</millis>
+  <sequence>80</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304020</millis>
+  <sequence>81</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 9
+ and value 12 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304021</millis>
+  <sequence>82</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 13
+ and value 9543 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304022</millis>
+  <sequence>83</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 34
+ and value 2000 to Girl girl6</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304023</millis>
+  <sequence>84</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 1
+ and value 13 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304024</millis>
+  <sequence>85</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2231 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304025</millis>
+  <sequence>86</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2000 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304026</millis>
+  <sequence>87</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 9
+ and value 12 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304027</millis>
+  <sequence>88</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 13
+ and value 9543 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304028</millis>
+  <sequence>89</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 34
+ and value 2000 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304029</millis>
+  <sequence>90</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 41
+ and value 25 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304033</millis>
+  <sequence>91</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 42
+ and value 6 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304034</millis>
+  <sequence>92</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 70
+ and value 10 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304037</millis>
+  <sequence>93</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304038</millis>
+  <sequence>94</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304040</millis>
+  <sequence>95</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304041</millis>
+  <sequence>96</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304042</millis>
+  <sequence>97</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 1
+ and value 13 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304044</millis>
+  <sequence>98</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2231 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304046</millis>
+  <sequence>99</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2000 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304048</millis>
+  <sequence>100</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 9
+ and value 12 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304050</millis>
+  <sequence>101</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 13
+ and value 9543 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304051</millis>
+  <sequence>102</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 34
+ and value 2000 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304052</millis>
+  <sequence>103</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 41
+ and value 25 to Girl girl342</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304053</millis>
+  <sequence>104</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 1
+ and value 13 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304055</millis>
+  <sequence>105</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2231 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304056</millis>
+  <sequence>106</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2000 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304057</millis>
+  <sequence>107</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 9
+ and value 12 to Girl girl21</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304058</millis>
+  <sequence>108</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1
+ and value 13 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304059</millis>
+  <sequence>109</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2231 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304060</millis>
+  <sequence>110</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2000 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304061</millis>
+  <sequence>111</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 9
+ and value 12 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304062</millis>
+  <sequence>112</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 13
+ and value 9543 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304063</millis>
+  <sequence>113</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 34
+ and value 2000 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304065</millis>
+  <sequence>114</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 41
+ and value 25 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304066</millis>
+  <sequence>115</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 42
+ and value 6 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304067</millis>
+  <sequence>116</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 70
+ and value 10 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304068</millis>
+  <sequence>117</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304069</millis>
+  <sequence>118</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304070</millis>
+  <sequence>119</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304070</millis>
+  <sequence>120</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304071</millis>
+  <sequence>121</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 91 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304072</millis>
+  <sequence>122</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304073</millis>
+  <sequence>123</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1034
+ and value 93 to Girl girl43</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:24</date>
+  <millis>1490714304074</millis>
+  <sequence>124</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1243
+ and value 2000 to Girl girl43</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309818</millis>
+  <sequence>0</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl1 and Boy = boy42
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309869</millis>
+  <sequence>1</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl62 and Boy = boy79
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309871</millis>
+  <sequence>2</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl16 and Boy = boy26
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309873</millis>
+  <sequence>3</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl9 and Boy = boy63
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309874</millis>
+  <sequence>4</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl76 and Boy = boy453
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309876</millis>
+  <sequence>5</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl6 and Boy = boy1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309878</millis>
+  <sequence>6</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl34 and Boy = boy16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309879</millis>
+  <sequence>7</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl342 and Boy = boy236
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309881</millis>
+  <sequence>8</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl21 and Boy = boy45
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309882</millis>
+  <sequence>9</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>setRelationship</method>
+  <thread>1</thread>
+  <message>Girl = girl43 and Boy = boy95
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309887</millis>
+  <sequence>10</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 1
+ and value 13 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309888</millis>
+  <sequence>11</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2231 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309890</millis>
+  <sequence>12</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 4
+ and value 2000 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309891</millis>
+  <sequence>13</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 9
+ and value 12 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309892</millis>
+  <sequence>14</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 13
+ and value 9543 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309894</millis>
+  <sequence>15</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 34
+ and value 2000 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309895</millis>
+  <sequence>16</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 41
+ and value 25 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309896</millis>
+  <sequence>17</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 42
+ and value 6 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309897</millis>
+  <sequence>18</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 70
+ and value 10 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309899</millis>
+  <sequence>19</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309900</millis>
+  <sequence>20</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309902</millis>
+  <sequence>21</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309904</millis>
+  <sequence>22</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309906</millis>
+  <sequence>23</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 91 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309909</millis>
+  <sequence>24</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy42 gifts Gift of Price 103
+ and value 9 to Girl girl1
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309912</millis>
+  <sequence>25</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1
+ and value 13 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309914</millis>
+  <sequence>26</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2231 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309916</millis>
+  <sequence>27</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 4
+ and value 2000 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309919</millis>
+  <sequence>28</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 9
+ and value 12 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309921</millis>
+  <sequence>29</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 13
+ and value 9543 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309922</millis>
+  <sequence>30</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309923</millis>
+  <sequence>31</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309924</millis>
+  <sequence>32</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309926</millis>
+  <sequence>33</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309927</millis>
+  <sequence>34</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 91 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309928</millis>
+  <sequence>35</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 103
+ and value 9 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309929</millis>
+  <sequence>36</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy79 gifts Gift of Price 1034
+ and value 93 to Girl girl62
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309930</millis>
+  <sequence>37</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 1
+ and value 13 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309931</millis>
+  <sequence>38</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2231 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309932</millis>
+  <sequence>39</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 4
+ and value 2000 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309933</millis>
+  <sequence>40</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 9
+ and value 12 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309934</millis>
+  <sequence>41</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 13
+ and value 9543 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309935</millis>
+  <sequence>42</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309937</millis>
+  <sequence>43</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309937</millis>
+  <sequence>44</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309938</millis>
+  <sequence>45</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309939</millis>
+  <sequence>46</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 91 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309940</millis>
+  <sequence>47</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy26 gifts Gift of Price 103
+ and value 9 to Girl girl16
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309941</millis>
+  <sequence>48</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 1
+ and value 13 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309942</millis>
+  <sequence>49</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2231 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309944</millis>
+  <sequence>50</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 4
+ and value 2000 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309945</millis>
+  <sequence>51</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 9
+ and value 12 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309947</millis>
+  <sequence>52</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 13
+ and value 9543 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309949</millis>
+  <sequence>53</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 34
+ and value 2000 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309950</millis>
+  <sequence>54</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 41
+ and value 25 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309952</millis>
+  <sequence>55</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 42
+ and value 6 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309954</millis>
+  <sequence>56</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 70
+ and value 10 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309955</millis>
+  <sequence>57</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309957</millis>
+  <sequence>58</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309958</millis>
+  <sequence>59</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309959</millis>
+  <sequence>60</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309960</millis>
+  <sequence>61</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 91 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309962</millis>
+  <sequence>62</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy63 gifts Gift of Price 103
+ and value 9 to Girl girl9
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309963</millis>
+  <sequence>63</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 1
+ and value 13 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309964</millis>
+  <sequence>64</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2231 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309965</millis>
+  <sequence>65</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 4
+ and value 2000 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309966</millis>
+  <sequence>66</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 9
+ and value 12 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309969</millis>
+  <sequence>67</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 13
+ and value 9543 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309970</millis>
+  <sequence>68</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 34
+ and value 2000 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309971</millis>
+  <sequence>69</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 41
+ and value 25 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309972</millis>
+  <sequence>70</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 42
+ and value 6 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309973</millis>
+  <sequence>71</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 70
+ and value 10 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309974</millis>
+  <sequence>72</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309976</millis>
+  <sequence>73</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309977</millis>
+  <sequence>74</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309978</millis>
+  <sequence>75</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309980</millis>
+  <sequence>76</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 91 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309981</millis>
+  <sequence>77</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy453 gifts Gift of Price 103
+ and value 9 to Girl girl76
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309982</millis>
+  <sequence>78</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 1
+ and value 13 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309989</millis>
+  <sequence>79</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2231 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309994</millis>
+  <sequence>80</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 4
+ and value 2000 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309995</millis>
+  <sequence>81</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 9
+ and value 12 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309997</millis>
+  <sequence>82</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 13
+ and value 9543 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:29</date>
+  <millis>1490714309999</millis>
+  <sequence>83</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy1 gifts Gift of Price 34
+ and value 2000 to Girl girl6
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310000</millis>
+  <sequence>84</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 1
+ and value 13 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310001</millis>
+  <sequence>85</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2231 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310003</millis>
+  <sequence>86</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 4
+ and value 2000 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310004</millis>
+  <sequence>87</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 9
+ and value 12 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310005</millis>
+  <sequence>88</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 13
+ and value 9543 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310006</millis>
+  <sequence>89</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 34
+ and value 2000 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310007</millis>
+  <sequence>90</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 41
+ and value 25 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310008</millis>
+  <sequence>91</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 42
+ and value 6 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310009</millis>
+  <sequence>92</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 70
+ and value 10 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310010</millis>
+  <sequence>93</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310011</millis>
+  <sequence>94</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310012</millis>
+  <sequence>95</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310013</millis>
+  <sequence>96</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy16 gifts Gift of Price 103
+ and value 9 to Girl girl34
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310014</millis>
+  <sequence>97</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 1
+ and value 13 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310015</millis>
+  <sequence>98</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2231 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310016</millis>
+  <sequence>99</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 4
+ and value 2000 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310017</millis>
+  <sequence>100</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 9
+ and value 12 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310018</millis>
+  <sequence>101</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 13
+ and value 9543 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310019</millis>
+  <sequence>102</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 34
+ and value 2000 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310020</millis>
+  <sequence>103</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy236 gifts Gift of Price 41
+ and value 25 to Girl girl342
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310021</millis>
+  <sequence>104</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 1
+ and value 13 to Girl girl21
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310022</millis>
+  <sequence>105</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2231 to Girl girl21
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310023</millis>
+  <sequence>106</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 4
+ and value 2000 to Girl girl21
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310024</millis>
+  <sequence>107</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy45 gifts Gift of Price 9
+ and value 12 to Girl girl21
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310025</millis>
+  <sequence>108</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1
+ and value 13 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310026</millis>
+  <sequence>109</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2231 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310026</millis>
+  <sequence>110</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 4
+ and value 2000 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310027</millis>
+  <sequence>111</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 9
+ and value 12 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310028</millis>
+  <sequence>112</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 13
+ and value 9543 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310029</millis>
+  <sequence>113</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 34
+ and value 2000 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310030</millis>
+  <sequence>114</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 41
+ and value 25 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310031</millis>
+  <sequence>115</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 42
+ and value 6 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310031</millis>
+  <sequence>116</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 70
+ and value 10 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310032</millis>
+  <sequence>117</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310033</millis>
+  <sequence>118</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310034</millis>
+  <sequence>119</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310035</millis>
+  <sequence>120</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310036</millis>
+  <sequence>121</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 91 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310040</millis>
+  <sequence>122</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 103
+ and value 9 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310041</millis>
+  <sequence>123</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1034
+ and value 93 to Girl girl43
+
+</message>
+</record>
+<record>
+  <date>2017-03-28T20:48:30</date>
+  <millis>1490714310042</millis>
+  <sequence>124</sequence>
+  <logger>PPL_Assignment</logger>
+  <level>INFO</level>
+  <class>Utils.Helper</class>
+  <method>startGifting</method>
+  <thread>1</thread>
+  <message>Boy boy95 gifts Gift of Price 1243
+ and value 2000 to Girl girl43
+
+</message>
+</record>
+</log>
