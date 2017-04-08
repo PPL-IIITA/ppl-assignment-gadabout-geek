@@ -35,6 +35,6 @@ public class Main/*! \brief Main Class
 		
 		helper.startGifting(relationships, gifts);
 		helper.printKbest(relationships, 5);
-		System.out.print("\n\n"+randomNum+"\n\n");
+		
 	}
 }
