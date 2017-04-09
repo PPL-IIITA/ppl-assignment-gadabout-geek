@@ -1,9 +1,9 @@
 After Cloning the repository from GitHub
-In the folder cloned
+In the folder cloned(by changing the directory go to the assignment directory that will be ppl-assignment-gadabout-geek)
 
 run
 
-javac -d . *.java
+    $javac -d . *.java
 
 
 This will create the packages and class files into it.
