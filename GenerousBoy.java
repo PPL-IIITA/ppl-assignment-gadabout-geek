@@ -18,7 +18,7 @@ public class GenerousBoy extends Boy/*! \brief A type of Boy
     public GenerousBoy(){/**Default Constructor */   
     }
 
-    public double calHappiness(Relationship r){
+    public double calHappiness(Relationship r){/**Overriden Function which on passing his relationship variable returns the happiness*/
         double t = r.getGirl().getHappiness();
         this.setHappiness(t);
         return t;

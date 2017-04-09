@@ -8,7 +8,7 @@ public class UtilityGift extends Gift/*! \brief A type of Gift
     /**utility value of gift*/
     private int utilityvalue;
 
-    public int getUtilityValue() {
+    public int getUtilityValue() {/**getter for utility value*/
         return utilityvalue;
     }
     public UtilityGift(){/**Default Constructor*/
@@ -20,15 +20,15 @@ public class UtilityGift extends Gift/*! \brief A type of Gift
         this.utilityvalue = utilityvalue;
     }
 
-    public void setUtilityValue(int value) {
+    public void setUtilityValue(int value) {/**setter for utility value*/
         this.utilityvalue = value;
     }
 
-    public int getUtilityClass() {
+    public int getUtilityClass() {/**getter for utilityclass*/
         return utilityclass;
     }
 
-    public void setUtilityClass(int utilityclass){
+    public void setUtilityClass(int utilityclass){/**setter for utility class*/
         this.utilityclass = utilityclass;
     }
 }

@@ -17,7 +17,7 @@ public class GeekBoy extends Boy/*! \brief A type of Boy
     public GeekBoy(){/**Default Constructor */
     }
 
-    public double calHappiness(Relationship r){
+    public double calHappiness(Relationship r){/**Function which on passing his relationship variable returns the happiness*/
         double t = new Double(""+r.getGirl().getIntl());
         this.setHappiness(t);
         return t;

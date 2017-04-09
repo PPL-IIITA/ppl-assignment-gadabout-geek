@@ -8,18 +8,18 @@ import Utils.*;
 
 public class Helper/*! \brief A Utility class created to Help in forming couples, and start gifting
 		    *
-		    *class created to Help in forming couples, and start gifting
+		    *class created to Help in forming couples, and start gifting and various task to perform in different questions
 		    */{
 			    /**object of logger utility*/
 			    public MyLogger logger;
-			    public Helper(){
+			    public Helper(){/*default constructor*/
 				    try{
 					    logger = new MyLogger();
 				    }catch(Exception e){
 					    e.printStackTrace();
 				    }
 			    }
-			    public ArrayList<Relationship> formCouple(ArrayList<Boy> boys, ArrayList<Girl> girls){/** a function which takes arguments as Lists of all boys and all girls @param miserBoyList, @param generousBoyList, @param geekBoyList, @param choosyGirlList, @param normalGirlList, @param desperateGirlList*/
+			    public ArrayList<Relationship> formCouple(ArrayList<Boy> boys, ArrayList<Girl> girls){/** a function which takes arguments as Lists of all boys and all girls @param boys, @param girls and return the @param relationship arraylist*/
 				    ArrayList<Relationship> relList = new ArrayList<Relationship> ();
 				    Relationship rel;
 				    for(int i = 0; i < girls.size(); i++){
@@ -37,7 +37,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    }
 				    return relList;
 			    }
-			    public ArrayList<Relationship> formCoupleModified(ArrayList<Boy> boys, ArrayList<Girl> girls){/** a function which takes arguments as Lists of all boys and all girls @param miserBoyList, @param generousBoyList, @param geekBoyList, @param choosyGirlList, @param normalGirlList, @param desperateGirlList*/
+			    public ArrayList<Relationship> formCoupleModified(ArrayList<Boy> boys, ArrayList<Girl> girls){/** another function for another couple formation technique which takes arguments as Lists of all boys and all girls @param boys, @param girls and return the @param relationship arraylist*/
 				    ArrayList<Relationship> relList = new ArrayList<Relationship> ();
 				    Relationship rel;
 				    int i, j;
@@ -91,7 +91,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    }
 				    return relList;
 			    }
-			    public Relationship setRelationship(Girl girl, ArrayList<Boy> boys){/**overloaded function to assign relationship if @param girl is choosy with @param geekBoyList, @param generousBoyList, @param miserBoyList*/
+			    public Relationship setRelationship(Girl girl, ArrayList<Boy> boys){/**overloaded function to assign relationship @param girl with total boys Available*/
 				    Relationship rel = new Relationship();
 				    Boy boy = new Boy();
 				    initiate(boy);
@@ -161,7 +161,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    logger.log.info("Girl = "+girl.getName()+" and Boy = "+boy.getName()+"\n\n");
 				    return rel;
 			    }
-                public Relationship setRelationship(Boy boy, ArrayList<Girl> girls){
+                public Relationship setRelationship(Boy boy, ArrayList<Girl> girls){/**overloaded function to assign relationship @param boy with total girls Available*/
                     
                     Relationship rel = null;
                     Girl g = new Girl();
@@ -207,7 +207,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    }
 			    }
 
-			    private boolean getCommited__(Boy boy, ArrayList<Boy> boys){
+			    private boolean getCommited__(Boy boy, ArrayList<Boy> boys){/**overloaded get the respective @param boy 's status from total boys*/
 				    for(int i = 0; i < boys.size(); i++){
 					    if(boys.get(i).getName().equals(boy.getName())){
 						    return boys.get(i).isCommited();
@@ -216,7 +216,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    return false;
 			    }
 
-			    private void setCommited__(Boy boy, ArrayList<Boy> boys, boolean b){
+			    private void setCommited__(Boy boy, ArrayList<Boy> boys, boolean b){/**overloaded set the respective @param boy 's status from total boys*/
 				    for(int i = 0; i < boys.size(); i++){
 					    if(boys.get(i).getName().equals(boy.getName())){
 						    Boy btemp = boys.get(i);
@@ -227,7 +227,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    }
 			    }
 
-			    private void setCommited__(Girl girl, ArrayList<Girl> girls, boolean b){
+			    private void setCommited__(Girl girl, ArrayList<Girl> girls, boolean b){/**overloaded set the respective @param girl's status from total girls*/
 				    for(int i = 0; i < girls.size(); i++){
 					    if(girls.get(i).getName().equals(girl.getName())){
 						    Girl btemp = girls.get(i);
@@ -238,7 +238,7 @@ public class Helper/*! \brief A Utility class created to Help in forming couples
 				    }
 			    }
 
-			    public void breakup(ArrayList<Relationship> relationships, ArrayList<Boy> boys, ArrayList<Girl> girls, int k){
+			    public void breakup(ArrayList<Relationship> relationships, ArrayList<Boy> boys, ArrayList<Girl> girls, int k){/**function to perform breakup having less than @param k happiness*/
 				    ArrayList<Relationship> r = new ArrayList<Relationship>(relationships);
 				    ArrayList<Relationship> brkrel = new ArrayList<Relationship>();
 				    if(r.size() <= 0){

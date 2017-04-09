@@ -1,0 +1,68 @@
+Every Question has a main containing class corresponding to it.
+
+P.S. For anywhere the choice is to be made by the user, choosing least k happy couple or choosing between any technique to gift or to make couples, RANDOM INPUT has been made.
+To check various options please run them again and again.
+
+This is done for the simplicity of the checker to not everytime think about how to provide input to see different techniques of doing the question.
+
+For more info, please see comments of respective java file for example for Question 4, see Ques4.java
+
+
+To run Ques1 and Ques2
+
+	Download zip from “Ques-1-And-2” branch of the assignment.
+ 	
+	(ALREADY SUBMITTED)
+
+
+To run Ques3
+
+	Run:
+	
+	$ java Main/Ques3
+
+To run Ques4
+
+	Run:
+
+	$ java Main/Ques4 
+
+To run Ques5
+
+	Run:
+	
+	$java Main/Ques5
+
+To run Ques6
+
+	Run:
+	
+	$java Main/Ques6
+
+To run Ques7
+
+	Run:
+
+	$java Main/Ques7
+
+To run Ques8
+
+	Run:
+		
+	$java Main/Ques8
+
+To run Ques9
+
+	Run:
+	
+	$java Main/Ques9
+
+To run Ques10
+
+	Run:
+	
+	$java Main/Ques10
+
+Log files for every corresponding question will be generated in “log.txt” in “Log” folder.
+
+Also, the required output will be displayed on the console.

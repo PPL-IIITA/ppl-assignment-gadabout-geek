@@ -4,9 +4,9 @@ import Utils.Constants;
 import java.util.*;
 import Utils.Relationship;
 
-public class Girl/*! \brief A type of Girl
+public class Girl/*! \brief Parent class of All type of Girls
     *
-    *class with the attributes to describe a Normal Girl
+    *Parent class of all type of Girls and has the common attributes
     */{
     /**name of girl*/
     private String name;
@@ -37,7 +37,7 @@ public class Girl/*! \brief A type of Girl
         
     }
     
-    public double calHappiness(Relationship r){  
+    public double calHappiness(Relationship r){  /**function which will be overrided by the child classes such that on passing the relationship variable of theirs it returns the happiness accordingly*/
         return 0;
     }   
 

@@ -2,7 +2,11 @@ package Boys;
 
 import Utils.*;
 
-public class Boy{
+public class Boy/*! \brief Parent class of All type of Boys
+    *
+    *It is a class which all boys inherits. It has all the common attributes
+    *
+*/{
 	private String name;
     /** attraction of boy*/
     private int attr;
@@ -38,7 +42,7 @@ public class Boy{
         this.name = name;
     }
 
-    public double calHappiness(Relationship r){
+    public double calHappiness(Relationship r){/**function which will be overrided by the child classes such that on passing the relationship variable of theirs it returns the happiness accordingly*/
         return 0;
     }
 

@@ -21,7 +21,7 @@ public class MyLogger/*! \brief Wrapper Logger
      
 	
 }
-class MyFormatter extends Formatter{
+class MyFormatter extends Formatter{/**to format the logs*/
 	public String format(LogRecord record){
 		return "\n\nOn "+new Date(record.getMillis())+" from method "+record.getSourceMethodName()+"\n"+record.getMessage();
 	}

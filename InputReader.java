@@ -18,7 +18,7 @@ public class InputReader/*! \brief A utility to Read the input
     */{
 	public InputReader(){ /**defualt constructor*/
 	}
-	public void readInputBoys(ArrayList<Boy> boys){/**function to read all input Boys in Lists @param miserList, @param generousList, @param geekList*/
+	public void readInputBoys(ArrayList<Boy> boys){/**function to read all input Boys in List @param boys as it is collection of references of Parent class Boy*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -67,7 +67,7 @@ public class InputReader/*! \brief A utility to Read the input
 		}catch(Exception e){
 		}
 	}
-	public void readInputGirls(ArrayList<Girl> girls){/**function to read all input Girls in Lists @param normalList, @param choosyList, @param desperateList*/
+	public void readInputGirls(ArrayList<Girl> girls){/**function to read all input Girls in List @param girls as girls being collection of Parent Class Girl's references*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -119,7 +119,7 @@ public class InputReader/*! \brief A utility to Read the input
 		}catch(Exception e){
 		}
 	}
-	public void readInputGifts(ArrayList<Gift> gifts){/**function to read all input Gifts in Lists @param egs, @param lgs, @param ugs*/
+	public void readInputGifts(ArrayList<Gift> gifts){/**function to read all gifts in @param gifts as it being the Collection of parent class references*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();

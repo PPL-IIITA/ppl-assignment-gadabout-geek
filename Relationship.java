@@ -17,12 +17,13 @@ public class Relationship implements Comparable<Relationship>/*! \brief A class 
     /*compatibility of couple*/
     private double compatibility;
     private ArrayList<Gift> gifts;
+    private GiftSelector gifter;
 
-    public ArrayList<Gift> getGifts(){
+    public ArrayList<Gift> getGifts(){/*getter for the gift basket*/
         return gifts;
     }
 
-    public void setGifts(ArrayList<Gift> gifts){
+    public void setGifts(ArrayList<Gift> gifts){/**setter for the gift basket*/
         this.gifts = gifts;
     }
     
@@ -42,12 +43,14 @@ public class Relationship implements Comparable<Relationship>/*! \brief A class 
         this.boy = boy;
     }
 
-    public Relationship(){/**defualt constructor*/
-        
+    public Relationship(){/**default constructor*/
+        gifter = new Gifter(this);
     }
 
-    public void gifting(ArrayList<Gift> gifts){
-        Gifter gifter = new Gifter(this);
+    public void setGifter(GiftSelector gs){/**setter for GiftSelector's gifter*/
+        this.gifter = gs;
+    }
+    public void gifting(ArrayList<Gift> gifts){/**function which initializes gifter object and which eventually creates the gift basket*/
         gifter.gift(gifts);
         calHappiness();
         calCompatibility();
@@ -60,7 +63,7 @@ public class Relationship implements Comparable<Relationship>/*! \brief A class 
         return 0;
     }
 
-    private void calHappiness(){
+    private void calHappiness(){/**function to return the happiness of the couple by adding invidual happinesses*/
        happiness = girl.calHappiness(this);
        happiness += boy.calHappiness(this);
     }

@@ -1,27 +1,26 @@
 package Gifts;
-public class Gift implements Comparable<Gift>/*! \brief A type of Gift
+public class Gift implements Comparable<Gift>/*! Parent class of All types of Gifts
     *
-    *class with the attributes to describe a Luxury Gift
+    *class which every type of gifts extends and this has all the common attributes
     */{
 /** value of gift*/
     private int value;
     /**price of gift*/
     private int price;
 
-    public Gift(){
+    public Gift(){/**default constructor*/
 
     }
-    public int compareTo(Gift g){
+    public int compareTo(Gift g){/**comparator function to sort according to price*/
         return this.price - g.getPrice();
     }
 
-    public Gift(int price, int value){
+    public Gift(int price, int value){/**parameterized constructor for @param price and @param value*/
         this.value = value;
         this.price = price;
     }
 
-    public int getValue() {
-        /**getter (accessor) of value of gift*/
+    public int getValue() {  /**getter (accessor) of value of gift*/
         return value;
     }
 

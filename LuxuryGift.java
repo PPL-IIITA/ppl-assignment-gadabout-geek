@@ -17,19 +17,19 @@ public class LuxuryGift extends Gift/*! \brief A type of Gift
         this.difficulty = difficulty;
     }
 
-    public int getRating(){
+    public int getRating(){/**getter for Rating*/
         return rating;
     }
 
-    public void setDifficulty(int difficulty){
+    public void setDifficulty(int difficulty){/**setter for Difficulty*/
         this.difficulty = difficulty;
     }
 
-    public int getDifficulty(){
+    public int getDifficulty(){/**getter for Difficulty*/
         return difficulty;
     }
 
-    public void setRating(int rating){
+    public void setRating(int rating){/*setter for Rating*/
         this.rating = rating;
     }
 }

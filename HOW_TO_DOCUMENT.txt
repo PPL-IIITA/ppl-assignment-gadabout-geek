@@ -1,0 +1,21 @@
+To make documentation using Doxygen, 
+
+-Using Already existing Doxyfile
+	
+Write command 
+	
+	$ doxygen
+
+and to see the documentation open “index.html” in folder “html” in your browser.
+
+-Generate Documentation from scratch
+
+Write command 
+	
+	$doxygen -g
+	
+to generate Doxyfile and then
+
+	$ doxygen
+
+to generate the documentation and to see the documentation open “index.html” in folder “html” in your browser.

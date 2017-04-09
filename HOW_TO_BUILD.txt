@@ -1,0 +1,9 @@
+After Cloning the repository from GitHub
+In the folder cloned
+
+run
+
+javac -d . *.java
+
+
+This will create the packages and class files into it.

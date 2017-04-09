@@ -4,7 +4,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-public class RandomInput {
+public class RandomInput /*! /brief Class to generate random input
+*
+*	generate function of this class generates random input and saves it to input.xml in Utils folder
+*/{
 
 	private static final String FILENAME = "Utils/input.xml";
 	private static String anyCriteria(){

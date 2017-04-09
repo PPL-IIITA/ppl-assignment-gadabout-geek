@@ -19,7 +19,7 @@ public class MiserBoy extends Boy/*! \brief A type of Boy
         
     }
 
-    public double calHappiness(Relationship r){
+    public double calHappiness(Relationship r){/**Overriden Function which on passing his relationship variable returns the happiness*/
     	ArrayList<Gift> gifts = r.getGifts();
     	int sum = 0;
     	for(int i =0; i < gifts.size(); i++){

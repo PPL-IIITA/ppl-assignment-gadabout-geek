@@ -6,21 +6,20 @@ import Girls.*;
 import Utils.*;
 import java.util.*;
 
-public class Gifter/*! \brief Class as a utility in gifting
+public class Gifter extends GiftSelector/*! \brief Child class of GiftSelector having the default way of gifting method
     *
     *class which maintains the gift transitions of every relationship
     */{
-	private Relationship relationship;
-
-	public Gifter(Relationship relationship){
-		this.relationship = relationship;
+	
+	public Gifter(Relationship relationship){/**Parameterized constructor for @param relationship*/
+		super(relationship);
 	}
 
-	public Gifter(){
+	public Gifter(){/*default constructor*/
 
 	}
 
-	public void gift(ArrayList<Gift> totalGifts){
+	public void gift(ArrayList<Gift> totalGifts){/**Function on giving the total list of gifts as parameter, sets the gift basket accordingly for respective couple*/ 
 		ArrayList<Gift> gifts = new ArrayList<Gift>();
 		ArrayList<Gift> sortedGifts = new ArrayList<Gift>(totalGifts);
 		Collections.sort(sortedGifts);
