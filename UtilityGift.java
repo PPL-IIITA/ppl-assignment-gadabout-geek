@@ -1,39 +1,34 @@
 package Gifts;
-public class UtilityGift/*! \brief A type of Gift
+public class UtilityGift extends Gift/*! \brief A type of Gift
     *
     *class with the attributes to describe a Utility Gift
     */{
-    /** will contain gift value*/
-    private int value;
-    /**price of gift*/
-    private int price;
-    /**utility class of gift*/
+    
     private int utilityclass;
     /**utility value of gift*/
     private int utilityvalue;
 
-    public int getValue() {/**getter of value*/
-        return value;
+    public int getUtilityValue() {
+        return utilityvalue;
     }
     public UtilityGift(){/**Default Constructor*/
         
     }
     public UtilityGift(int price, int value, int utilityvalue, int utilityclass) {/**parameterized constructor*/
-        this.value = value;
-        this.price = price;
+        super(price, value);
         this.utilityclass = utilityclass;
         this.utilityvalue = utilityvalue;
     }
 
-    public void setValue(int value) {/**setter of value*/
-        this.value = value;
+    public void setUtilityValue(int value) {
+        this.utilityvalue = value;
     }
 
-    public int getPrice() {/**getter of price*/
-        return price;
+    public int getUtilityClass() {
+        return utilityclass;
     }
 
-    public void setPrice(int price) {/**setter of price*/
-        this.price = price;
+    public void setUtilityClass(int utilityclass){
+        this.utilityclass = utilityclass;
     }
 }

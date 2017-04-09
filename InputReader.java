@@ -18,7 +18,7 @@ public class InputReader/*! \brief A utility to Read the input
     */{
 	public InputReader(){ /**defualt constructor*/
 	}
-	public void readInputBoys(ArrayList<MiserBoy> miserList, ArrayList<GenerousBoy> generousList, ArrayList<GeekBoy> geekList){/**function to read all input Boys in Lists @param miserList, @param generousList, @param geekList*/
+	public void readInputBoys(ArrayList<Boy> boys){/**function to read all input Boys in Lists @param miserList, @param generousList, @param geekList*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -39,7 +39,7 @@ public class InputReader/*! \brief A utility to Read the input
 													Integer.parseInt(n.getElementsByTagName("minAttr").item(0).getTextContent()),
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						miserList.add(boy);
+						boys.add(boy);
 					}
 					else if(type == Constants.BOY_TYPE.GENEROUS){
 						GenerousBoy boy = new GenerousBoy(n.getElementsByTagName("name").item(0).getTextContent(),
@@ -49,7 +49,7 @@ public class InputReader/*! \brief A utility to Read the input
 													Integer.parseInt(n.getElementsByTagName("minAttr").item(0).getTextContent()),
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						generousList.add(boy);
+						boys.add(boy);
 					}
 					else if(type == Constants.BOY_TYPE.GEEK){
 						GeekBoy boy = new GeekBoy(n.getElementsByTagName("name").item(0).getTextContent(),
@@ -59,7 +59,7 @@ public class InputReader/*! \brief A utility to Read the input
 													Integer.parseInt(n.getElementsByTagName("minAttr").item(0).getTextContent()),
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						geekList.add(boy);
+						boys.add(boy);
 					}
 				}
 			}
@@ -67,7 +67,7 @@ public class InputReader/*! \brief A utility to Read the input
 		}catch(Exception e){
 		}
 	}
-	public void readInputGirls(ArrayList<ChoosyGirl> choosyList, ArrayList<NormalGirl> normalList, ArrayList<DesperateGirl> desperateList){/**function to read all input Girls in Lists @param normalList, @param choosyList, @param desperateList*/
+	public void readInputGirls(ArrayList<Girl> girls){/**function to read all input Girls in Lists @param normalList, @param choosyList, @param desperateList*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -89,7 +89,7 @@ public class InputReader/*! \brief A utility to Read the input
 													c,
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						choosyList.add(girl);
+						girls.add(girl);
 					}
 					else if(type == Constants.GIRL_TYPE.NORMAL){
 						Constants.CRITERION c = Constants.CRITERION.valueOf(n.getElementsByTagName("criterion").item(0).getTextContent());
@@ -100,7 +100,7 @@ public class InputReader/*! \brief A utility to Read the input
 													c,
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						normalList.add(girl);
+						girls.add(girl);
 					}
 					else if(type == Constants.GIRL_TYPE.DESPERATE){
 						Constants.CRITERION c = Constants.CRITERION.valueOf(n.getElementsByTagName("criterion").item(0).getTextContent());
@@ -111,7 +111,7 @@ public class InputReader/*! \brief A utility to Read the input
 													c,
 													Boolean.parseBoolean(n.getElementsByTagName("commited").item(0).getTextContent()),
 													Double.parseDouble(n.getElementsByTagName("happiness").item(0).getTextContent()));
-						desperateList.add(girl);
+						girls.add(girl);
 					}
 				}
 			}
@@ -119,7 +119,7 @@ public class InputReader/*! \brief A utility to Read the input
 		}catch(Exception e){
 		}
 	}
-	public void readInputGifts(ArrayList<EssentialGift> egs, ArrayList<UtilityGift> ugs, ArrayList<LuxuryGift> lgs){/**function to read all input Gifts in Lists @param egs, @param lgs, @param ugs*/
+	public void readInputGifts(ArrayList<Gift> gifts){/**function to read all input Gifts in Lists @param egs, @param lgs, @param ugs*/
 		try{
 			File f = new File("./Utils/input.xml");
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -136,24 +136,22 @@ public class InputReader/*! \brief A utility to Read the input
 						UtilityGift gift = new UtilityGift(
 													Integer.parseInt(n.getElementsByTagName("price").item(0).getTextContent()),
 													Integer.parseInt(n.getElementsByTagName("value").item(0).getTextContent()),
-													Integer.parseInt(n.getElementsByTagName("utilityvalue").item(0).getTextContent()),
-													Integer.parseInt(n.getElementsByTagName("utilityclass").item(0).getTextContent()));
-						ugs.add(gift);
+													0,0);
+						gifts.add(gift);
 					}
 					if(type == Constants.GIFT_TYPE.ESSENTIAL){
 						EssentialGift gift = new EssentialGift(
 													Integer.parseInt(n.getElementsByTagName("price").item(0).getTextContent()),
 													Integer.parseInt(n.getElementsByTagName("value").item(0).getTextContent())
 													);
-						egs.add(gift);
+						gifts.add(gift);
 					}
 					if(type == Constants.GIFT_TYPE.LUXURY){
 						LuxuryGift gift = new LuxuryGift(
-													Integer.parseInt(n.getElementsByTagName("value").item(0).getTextContent()),
 													Integer.parseInt(n.getElementsByTagName("price").item(0).getTextContent()),
-													Integer.parseInt(n.getElementsByTagName("rating").item(0).getTextContent()),
-													Integer.parseInt(n.getElementsByTagName("difficulty").item(0).getTextContent()));
-						lgs.add(gift);
+													Integer.parseInt(n.getElementsByTagName("value").item(0).getTextContent()),
+													0,0);
+						gifts.add(gift);
 					}
 				}
 			}
