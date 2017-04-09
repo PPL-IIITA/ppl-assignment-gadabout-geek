@@ -6,7 +6,7 @@ import Gifts.*;
 import java.io.*;
 import java.util.*;
 
-public class Ques7/*! \brief Main Class
+public class Ques7/*! \brief Main Class for Ques 7
     *
     *The Driver Class
     */{

@@ -3,7 +3,7 @@ Every Question has a main containing class corresponding to it.
 P.S. For anywhere the choice is to be made by the user, choosing least k happy couple or choosing between any technique to gift or to make couples, RANDOM INPUT has been made.
 To check various options please run them again and again.
 
-This is done for the simplicity of the checker to not everytime think about how to provide input to see different techniques of doing the question.
+This is done for the simplicity for the checker to not everytime think about how to provide input to see different techniques of doing the question.
 
 For more info, please see comments of respective java file for example for Question 4, see Ques4.java
 

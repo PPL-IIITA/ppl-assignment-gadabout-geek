@@ -6,7 +6,7 @@ import Utils.*;
 import Gifts.*;
 import java.util.*;
 
-public class Ques6/*! \brief Main Class
+public class Ques6/*! \brief Main Class for Ques 6
     *
     *The Driver Class
     */{
@@ -31,13 +31,16 @@ public class Ques6/*! \brief Main Class
 		helper.startGifting(relationships, gifts);
 
 		Random r = new Random();
-		int choice = r.nextInt(30);
-		ArrayList<Integer> markingsOfTheMonth = new ArrayList<Integer>();
+
+		int choice = r.nextInt(30); //Generating t days
+
+		ArrayList<Integer> markingsOfTheMonth = new ArrayList<Integer>();//markingsOfTheMonth is an arraylist having 0's and 1's denoting to perform the scene on the particular day of not.
+
 		for(int i = 0; i < 30; i++){
 			markingsOfTheMonth.add(0);
 		}
 		for(int i = 0; i < choice; i++){
-			markingsOfTheMonth.set(r.nextInt(30), 1);
+			markingsOfTheMonth.set(r.nextInt(30), 1); //randomly selecting t days
 		}
 		for(int i = 0; i < 30; i++){
 			if(markingsOfTheMonth.get(i) == 1){

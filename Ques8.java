@@ -6,7 +6,7 @@ import Utils.*;
 import Gifts.*;
 import java.util.*;
 
-public class Ques8/*! \brief Main Class
+public class Ques8/*! \brief Main Class for Ques 8
     *
     *The Driver Class
     */{
@@ -30,7 +30,7 @@ public class Ques8/*! \brief Main Class
 		relationships = helper.formCouple(boys, girls);
 
 
-		int choice = new Random().nextInt(2);//choice = 1 for new technique and choice = 0 for old
+		int choice = new Random().nextInt(2);//choice = 1 for new technique and choice = 0 for old, fixing its value will lead to choosing specific technique
 
 
 		if(choice == 0){

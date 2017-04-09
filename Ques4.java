@@ -6,7 +6,7 @@ import Gifts.*;
 import java.io.*;
 import java.util.*;
 
-public class Ques4/*! \brief Main Class
+public class Ques4/*! \brief Main Class for Ques 4
     *
     *The Driver Class
     */{
@@ -31,7 +31,9 @@ public class Ques4/*! \brief Main Class
 		relationships = helper.formCouple(boys, girls);
 		
 		helper.startGifting(relationships, gifts);
+
+		int k = new Random().nextInt(10); //random value of k is generated, we can assign any value of k here which should be less than size of relationship Arraylist, generally k < 10 works efficiently.
 		
-		helper.breakup(relationships, boys, girls,5);
+		helper.breakup(relationships, boys, girls,k);
 	}
 }

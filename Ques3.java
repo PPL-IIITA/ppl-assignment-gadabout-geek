@@ -6,7 +6,7 @@ import Gifts.*;
 import java.io.*;
 import java.util.*;
 
-public class Ques3/*! \brief Main Class
+public class Ques3/*! \brief Main Class for Ques 3
     *
     *The Driver Class
     */{
@@ -26,7 +26,7 @@ public class Ques3/*! \brief Main Class
 		
 		relationships = helper.formCouple(boys, girls);
         
-        int k = new Random().nextInt(10);
+        int k = new Random().nextInt(10); //to fix k accordingly assign the value to k
         
 		helper.startGifting(relationships, gifts);
 		helper.printKbest(relationships, k);

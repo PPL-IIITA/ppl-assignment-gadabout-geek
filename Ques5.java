@@ -6,7 +6,7 @@ import Gifts.*;
 import java.io.*;
 import java.util.*;
 
-public class Ques5/*! \brief Main Class
+public class Ques5/*! \brief Main Class for Ques 5
     *
     *The Driver Class
     */{
@@ -30,7 +30,8 @@ public class Ques5/*! \brief Main Class
 
 		int randomNum;
 		String s;
-		randomNum = ((new Random()).nextInt());
+		randomNum = ((new Random()).nextInt(10)); // choosing the technique to alot gift, 1 - new Technique, 0 - for old technique.
+
 		if(randomNum%2 == 0){
 			relationships = helper.formCouple(boys, girls);
 			s="Generated Couples using Technique in Ques 1";
@@ -40,7 +41,8 @@ public class Ques5/*! \brief Main Class
 			s="Generated Couples using Technique in Ques 5";
 		}
 		
-        int k = new Random().nextInt(10);
+        int k = new Random().nextInt(10); //to randomly get k most happy couple, fixing value of k will give k happiest couple
+
 		helper.startGifting(relationships, gifts);
 		helper.printKbest(relationships, k);
 		
